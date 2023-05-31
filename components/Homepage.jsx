@@ -12,6 +12,7 @@ const Homepage = () => {
           <Image
             className={styles.image}
             src={house}
+            alt="house"
             // objectFit="cover"
           />
         </div>
