@@ -18,8 +18,8 @@ const Homepage = () => {
         </div>
         <div className={styles["sellingpoint-container"]}>
           <p className={styles.sellingpoint}>
-            "Discover your dream home with Luxury Haven Realty - your gateway to
-            exclusive, luxurious properties in the most coveted locations."
+          &quot Discover your dream home with Luxury Haven Realty - your gateway to
+            exclusive, luxurious properties in the most coveted locations.&quot
           </p>
         </div>
       </div>
